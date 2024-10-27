@@ -14,7 +14,7 @@ The Data Base used is a jason-data-base (Not really a data base but usefull to c
 
 # Getting Started with Create React App
 
-Before starting `npm start` execution you need to link the site to a port (for instance 3003) by executing the command :
+Before starting `npm start` execution you need to link the site to a port (for instance 3000) by executing the command :
 ### `npx json-server --watch .\Data_Base.json --port 3000`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
