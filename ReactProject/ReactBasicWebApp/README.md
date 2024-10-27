@@ -1,3 +1,17 @@
+### Interface :
+## Home page
+![Screenshot 2024-08-05 203233](https://github.com/user-attachments/assets/bf6c49bb-27fb-45da-9ffe-da6ffd565305)
+
+## Add page
+![Screenshot 2024-08-05 203436](https://github.com/user-attachments/assets/9443037b-1080-4352-a950-5453c555ce44)
+
+## Update page
+![Screenshot 2024-08-05 203626](https://github.com/user-attachments/assets/5b0eb982-df9d-452b-b857-7a8005db3415)
+
+### Specification
+The Data Base used is a jason-data-base (Not really a data base but usefull to collect data locally)
+
+
 # Getting Started with Create React App
 
 Before starting `npm start` execution you need to link the site to a port (for instance 3003) by executing the command :
@@ -71,17 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-### Interface :
-## Home page
-![Screenshot 2024-08-05 203233](https://github.com/user-attachments/assets/bf6c49bb-27fb-45da-9ffe-da6ffd565305)
-
-## Add page
-![Screenshot 2024-08-05 203436](https://github.com/user-attachments/assets/9443037b-1080-4352-a950-5453c555ce44)
-
-## Update page
-![Screenshot 2024-08-05 203626](https://github.com/user-attachments/assets/5b0eb982-df9d-452b-b857-7a8005db3415)
-
-### Specification
-The Data Base used is a jason-data-base (Not really a data base but usefull to collect data locally)
