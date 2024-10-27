@@ -5,7 +5,7 @@
 ## Add page
 ![Screenshot 2024-08-05 203436](https://github.com/user-attachments/assets/9443037b-1080-4352-a950-5453c555ce44)
 
-## Update page
+# Update page
 ![Screenshot 2024-08-05 203626](https://github.com/user-attachments/assets/5b0eb982-df9d-452b-b857-7a8005db3415)
 
 ### Specification
